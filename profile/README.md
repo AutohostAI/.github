@@ -25,7 +25,7 @@
 </div>
 
 <h3 align="center">
-  <p>Build best in-class Guest Verification and KYC apps quickly</p>
+  <p>Build Guest Verification apps for Hospitality and Real Estate quickly</p>
 </h3>
 
 Documentation:
