@@ -35,7 +35,7 @@ Documentation:
 Code Examples:
 - [`SDK Demos`](https://github.com/AutohostAI/sdk-demos) - Examples of using the SDK with Next.js
 
-Live demos:
+Videos:
 - [`Autohost SDK`](https://youtu.be/Pq5Jj0ZkBNY) - Building a Guest Screening Portal with the Autohost SDK
 - [`ID Verification`](https://youtu.be/Sxbq16u70-o) - Demo of ID Verification with the SDK
 
